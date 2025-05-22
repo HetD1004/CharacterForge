@@ -22,7 +22,7 @@ const PersonaInterview = () => {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
-          'Authorization': 'Bearer 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'
+          'Authorization': 'Bearer groqAPIToken'
         },
         body: JSON.stringify({
           model: "llama3-70b-8192",
