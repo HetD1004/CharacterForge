@@ -23,7 +23,7 @@ CharacterForge is an AI-powered tool for UX designers and researchers to create 
 
 1. Clone the repository:
 \\\ash
-git clone https://github.com/yourusername/character-forge.git
+git clone https://github.com/HetD1004/character-forge.git
 cd character-forge
 \\\
 
