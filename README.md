@@ -2,7 +2,6 @@
 
 CharacterForge is an AI-powered tool for UX designers and researchers to create rich personas and mood boards based on real user interviews and customer data.
 
-![CharacterForge Banner](public/placeholder.svg)
 
 ## 🌟 Features
 
